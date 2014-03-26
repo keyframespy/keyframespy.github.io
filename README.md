@@ -1,4 +1,4 @@
-keyframespy.github.com
+keyframespy.github.io
 ======================
 
 static page
